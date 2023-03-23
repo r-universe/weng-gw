@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DRDRtest"]
+	path = DRDRtest
+	url = https://github.com/cran/DRDRtest
+	shallow = true
+	registered = true
 [submodule "lsbs"]
 	path = lsbs
 	url = https://github.com/weng-gw/lsbs

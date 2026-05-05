@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DRDRtest"]
-	path = DRDRtest
-	url = https://github.com/cran/DRDRtest
 [submodule "lsbs"]
 	path = lsbs
 	url = https://github.com/weng-gw/lsbs
